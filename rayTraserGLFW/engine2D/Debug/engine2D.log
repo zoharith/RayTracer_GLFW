@@ -1,0 +1,7 @@
+﻿  mesh.cpp
+  sceneParser.cpp
+g:\גרפיקה\raytraserglfw\engine2d\sceneparser.h(40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  Generating Code...
+  stb_image.c
+  engine2D.vcxproj -> G:\גרפיקה\rayTraserGLFW\Debug\engine2D.lib
